@@ -1,6 +1,6 @@
 
 public class HourseBlend extends Beverage {
-	public HourseBlend (){
+	public HourseBlend(){
 		description = "Hourse Blend Coffee";
 	}
 	
